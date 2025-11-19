@@ -10,7 +10,7 @@
 
 1. Apply the following CSS to the class <code>.float-section: float: left;</code> What do you notice happens?
 
-2. Apply the following CSS to the class <code>.clear-both: clear:both;</code> What do you now notice happens to the <code> <h2> </code> flexbox?
+2. Apply the following CSS to the class <code>.clear-both: clear:both;</code> What do you now notice happens to the <code> <h2></h2> </code> flexbox?
 
 ## 2. Flexbox Section:
 
