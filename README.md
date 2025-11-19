@@ -22,8 +22,13 @@
 6. Please align the following items accordingly:
 
 grid-item-1: row 1, start at column 1 and end at column 2
+
 grid-item-2: row 2, start at column 2 and end at column 3
+
 grid-item-3: row 3, start at column 3 and end at column 4
+
 grid-item-4: row 4, start at column 4 and end at column 5
+
 grid-item-5: row 5, start at column 5 and end at column 6
+
 grid-item-6: row 6, start at column 6 and end at column 7
