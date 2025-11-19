@@ -8,8 +8,8 @@
 
 ## 1. Float Section:
 
-1. Apply the following CSS to the class .float-section: float: left; What do you notice happens?
-2.Apply the following CSS to the class .clear-both: clear:both; What do you now notice happens to the <h2> flexbox?
+1. Apply the following CSS to the class <code>.float-section: float: left;</code> What do you notice happens?
+2.Apply the following CSS to the class <code>.clear-both: clear:both;</code> What do you now notice happens to the <h2> flexbox?
 
 ## 2. Flexbox Section:
 
